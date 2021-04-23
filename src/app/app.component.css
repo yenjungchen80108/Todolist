@@ -71,7 +71,7 @@ ul li.checked::before {
 }
 
 #myUL .close:hover {
-    background-color: #f44336;
+    background-color: #b536f4;
     color: white;
 }
 
