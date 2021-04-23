@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'My To Do List';
+  title = 'My To Do List Practice';
   todos = [
     {
     label: 'Hit the gym',
